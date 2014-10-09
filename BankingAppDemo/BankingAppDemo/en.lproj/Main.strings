@@ -1,0 +1,36 @@
+
+/* Class = "IBUINavigationItem"; title = "Access Denied"; ObjectID = "FpJ-hO-zZ8"; */
+"FpJ-hO-zZ8.title" = "Access Denied";
+
+/* Class = "IBUILabel"; text = "UserName"; ObjectID = "JDz-Gi-rYt"; */
+"JDz-Gi-rYt.text" = "UserName";
+
+/* Class = "IBUINavigationItem"; title = "Registration"; ObjectID = "a9m-3w-dXf"; */
+"a9m-3w-dXf.title" = "Registration";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "aDT-dL-mlL"; */
+"aDT-dL-mlL.text" = "Password";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "bY5-LM-tT9"; */
+"bY5-LM-tT9.text" = "Password";
+
+/* Class = "IBUILabel"; text = "UserName"; ObjectID = "lyg-pR-l0t"; */
+"lyg-pR-l0t.text" = "UserName";
+
+/* Class = "IBUINavigationItem"; title = "Login"; ObjectID = "lzm-UC-Tcg"; */
+"lzm-UC-Tcg.title" = "Login";
+
+/* Class = "IBUILabel"; text = "Account Balance: "; ObjectID = "mb5-0V-2ys"; */
+"mb5-0V-2ys.text" = "Account Balance: ";
+
+/* Class = "IBUILabel"; text = "$1000"; ObjectID = "qXs-Kh-Usn"; */
+"qXs-Kh-Usn.text" = "$1000";
+
+/* Class = "IBUINavigationItem"; title = "Summary"; ObjectID = "r4V-GU-kxc"; */
+"r4V-GU-kxc.title" = "User Dashboard";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "s17-C9-JgD"; */
+"s17-C9-JgD.normalTitle" = "Login";
+
+/* Class = "IBUIButton"; normalTitle = "Register"; ObjectID = "xDd-3j-wOf"; */
+"xDd-3j-wOf.normalTitle" = "Register";

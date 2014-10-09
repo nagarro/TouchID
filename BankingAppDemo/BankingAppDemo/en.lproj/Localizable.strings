@@ -1,0 +1,18 @@
+
+/*
+ Localizable.strings
+ BankingAppDemo
+ */
+
+
+"FallBack_Button_Title" = "Tapped UserFallback button.";
+"Touch_Id_AlertTitle" = "Please use Touch id to view your account.";
+"Credential_NotValid_AlertTitle" = "Either credential or device info has been changed.Please register again to continue.";
+"UserName_AlertTitle" = "Please enter user name.";
+"Password_AlertTitle" = "please enter password.";
+"Empty_Alert_Title" = "";
+"RegistrationFailed_Alert_Title" = "Please use Touch id to complete the registration.";
+"RegistrationSuccess_Alert_Title" = "Registration Successfull.Please login to continue.";
+"OK_ButtonTitle" = "OK";
+"Wait_LabelTitle" = "Please Wait...";
+"TouchId_Message" = "Unlock access to locked feature";
